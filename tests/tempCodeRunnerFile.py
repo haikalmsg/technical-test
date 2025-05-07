@@ -1,0 +1,1 @@
+assert "OpenAI" in driver.title
